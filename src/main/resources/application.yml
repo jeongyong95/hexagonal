@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://joojoo-dev.cpcvgj2ps32g.ap-northeast-2.rds.amazonaws.com:5432/joojoo_dev
