@@ -1,4 +1,4 @@
-package com.joojeongyong.hexagonal.user.adapter.out.persistence;
+package com.joojeongyong.hexagonal.user.adapter.persistence;
 
 import com.joojeongyong.hexagonal.user.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;

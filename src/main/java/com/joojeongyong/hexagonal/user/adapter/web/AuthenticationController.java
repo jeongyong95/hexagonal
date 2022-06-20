@@ -1,4 +1,4 @@
-package com.joojeongyong.hexagonal.user.adapter.in.web;
+package com.joojeongyong.hexagonal.user.adapter.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

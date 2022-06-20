@@ -1,4 +1,4 @@
-package com.joojeongyong.hexagonal.user.adapter.in.web;
+package com.joojeongyong.hexagonal.user.adapter.web;
 
 import com.joojeongyong.hexagonal.user.application.port.in.UserInfoUseCasePort;
 import com.joojeongyong.hexagonal.user.application.port.in.dto.UserDto;

@@ -1,6 +1,6 @@
 package com.joojeongyong.hexagonal.user.application.port.out;
 
-import com.joojeongyong.hexagonal.user.adapter.out.persistence.UserRepository;
+import com.joojeongyong.hexagonal.user.adapter.persistence.UserRepository;
 import com.joojeongyong.hexagonal.user.domain.User;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
