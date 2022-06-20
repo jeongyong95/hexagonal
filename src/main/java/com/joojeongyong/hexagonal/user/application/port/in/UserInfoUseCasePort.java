@@ -12,6 +12,7 @@ import org.springframework.stereotype.Component;
  *  input port는 외부 어댑터에게 호출되고, 도메인을 호출한다.
  */
 
+@Deprecated // driving adapter에 포트를 따로 두지 않기로 결정
 @Slf4j
 @RequiredArgsConstructor
 @Component
